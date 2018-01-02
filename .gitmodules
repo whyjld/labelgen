@@ -1,0 +1,3 @@
+[submodule "vendor/glp"]
+	path = vendor/glp
+	url = https://github.com/whyjld/glp
